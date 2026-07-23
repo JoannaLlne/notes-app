@@ -18,8 +18,9 @@ body {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background-color: #9ec862;
+  background-color: #37586d;
   color: #fff;
+  text-transform: uppercase;
   border: none;
   border-radius: 3px;
   padding: 0.5rem 1rem;
